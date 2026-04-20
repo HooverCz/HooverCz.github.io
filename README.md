@@ -122,14 +122,14 @@ AWS certifications are some of the most in-demand credentials in cloud computing
 
 | Exam Code | Exam Name | Exam Dump |
 |-----------|-----------|-----------|
-| **CLF-C02** | AWS Certified Cloud Practitioner | [View Dump](https://www.cheapestexamdumps.com/amazon/clf-c02) |
-| **SAA-C03** | AWS Certified Solutions Architect – Associate | [View Dump](https://www.cheapestexamdumps.com/amazon/saa-c03) |
-| **DVA-C02** | AWS Certified Developer – Associate | [View Dump](https://www.cheapestexamdumps.com/amazon/dva-c02) |
-| **DOP-C02** | AWS Certified DevOps Engineer – Professional | [View Dump](https://www.cheapestexamdumps.com/amazon/dop-c02) |
-| **ANS-C01** | AWS Certified Advanced Networking – Specialty | [View Dump](https://www.cheapestexamdumps.com/amazon/ans-c01) |
-| **SCS-C02** | AWS Certified Security – Specialty | [View Dump](https://www.cheapestexamdumps.com/amazon/scs-c02) |
-| **DEA-C01** | AWS Certified Data Analytics – Specialty | [View Dump](https://www.cheapestexamdumps.com/amazon/dea-c01) |
-| **AIF-C01** | AWS Certified Artificial Intelligence – Specialty | [View Dump](https://www.cheapestexamdumps.com/amazon/aif-c01) |
+| **CLF-C02** | AWS Certified Cloud Practitioner | [View Dump](https://www.certblaze.com/amazon/clf-c02) |
+| **SAA-C03** | AWS Certified Solutions Architect – Associate | [View Dump](https://www.certblaze.com/amazon/saa-c03) |
+| **DVA-C02** | AWS Certified Developer – Associate | [View Dump](https://www.certblaze.com/amazon/dva-c02) |
+| **DOP-C02** | AWS Certified DevOps Engineer – Professional | [View Dump](https://www.certblaze.com/amazon/dop-c02) |
+| **ANS-C01** | AWS Certified Advanced Networking – Specialty | [View Dump](https://www.certblaze.com/amazon/ans-c01) |
+| **SCS-C02** | AWS Certified Security – Specialty | [View Dump](https://www.certblaze.com/amazon/scs-c02) |
+| **DEA-C01** | AWS Certified Data Analytics – Specialty | [View Dump](https://www.certblaze.com/amazon/dea-c01) |
+| **AIF-C01** | AWS Certified Artificial Intelligence – Specialty | [View Dump](https://www.certblaze.com/amazon/aif-c01) |
 
 ---
 
@@ -141,54 +141,54 @@ Microsoft has the broadest exam catalog of any vendor — covering Azure cloud, 
 
 | Exam Code | Exam Name | Certification | Exam Dump |
 |-----------|-----------|---------------|-----------|
-| **AZ-900** | Microsoft Azure Fundamentals | Azure Fundamentals | [View Dump](https://www.cheapestexamdumps.com/microsoft/az-900) |
-| **AZ-104** | Microsoft Azure Administrator | Azure Administrator Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/az-104) |
-| **AZ-140** | Configuring and Operating Microsoft Azure Virtual Desktop | Azure Virtual Desktop Specialty | [View Dump](https://www.cheapestexamdumps.com/microsoft/az-140) |
-| **AZ-204** | Developing Solutions for Microsoft Azure | Azure Developer Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/az-204) |
-| **AZ-305** | Designing Microsoft Azure Infrastructure Solutions | Azure Solutions Architect Expert | [View Dump](https://www.cheapestexamdumps.com/microsoft/az-305) |
-| **AZ-400** | Designing and Implementing Microsoft DevOps Solutions | Azure DevOps Engineer Expert | [View Dump](https://www.cheapestexamdumps.com/microsoft/az-400) |
-| **AZ-500** | Microsoft Azure Security Technologies | Azure Security Engineer Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/az-500) |
-| **AZ-700** | Designing and Implementing Microsoft Azure Networking Solutions | Azure Network Engineer Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/az-700) |
+| **AZ-900** | Microsoft Azure Fundamentals | Azure Fundamentals | [View Dump](https://www.certblaze.com/microsoft/az-900) |
+| **AZ-104** | Microsoft Azure Administrator | Azure Administrator Associate | [View Dump](https://www.certblaze.com/microsoft/az-104) |
+| **AZ-140** | Configuring and Operating Microsoft Azure Virtual Desktop | Azure Virtual Desktop Specialty | [View Dump](https://www.certblaze.com/microsoft/az-140) |
+| **AZ-204** | Developing Solutions for Microsoft Azure | Azure Developer Associate | [View Dump](https://www.certblaze.com/microsoft/az-204) |
+| **AZ-305** | Designing Microsoft Azure Infrastructure Solutions | Azure Solutions Architect Expert | [View Dump](https://www.certblaze.com/microsoft/az-305) |
+| **AZ-400** | Designing and Implementing Microsoft DevOps Solutions | Azure DevOps Engineer Expert | [View Dump](https://www.certblaze.com/microsoft/az-400) |
+| **AZ-500** | Microsoft Azure Security Technologies | Azure Security Engineer Associate | [View Dump](https://www.certblaze.com/microsoft/az-500) |
+| **AZ-700** | Designing and Implementing Microsoft Azure Networking Solutions | Azure Network Engineer Associate | [View Dump](https://www.certblaze.com/microsoft/az-700) |
 
 ### Azure AI & Data Exams
 
 | Exam Code | Exam Name | Certification | Exam Dump |
 |-----------|-----------|---------------|-----------|
-| **AI-102** | Designing and Implementing a Microsoft Azure AI Solution | Azure AI Engineer Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/ai-102) |
-| **AI-900** | Microsoft Azure AI Fundamentals | Azure AI Fundamentals | [View Dump](https://www.cheapestexamdumps.com/microsoft/ai-900) |
-| **DP-100** | Designing and Implementing a Data Science Solution on Azure | Data Science Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/dp-100) |
-| **DP-600** | Implementing Analytics Solutions Using Microsoft Fabric | Fabric Analytics Engineer Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/dp-600) |
-| **DP-700** | Implementing Data Engineering Solutions Using Microsoft Fabric | Fabric Data Engineer Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/dp-700) |
-| **DP-900** | Microsoft Azure Data Fundamentals | Azure Data Fundamentals | [View Dump](https://www.cheapestexamdumps.com/microsoft/dp-900) |
+| **AI-102** | Designing and Implementing a Microsoft Azure AI Solution | Azure AI Engineer Associate | [View Dump](https://www.certblaze.com/microsoft/ai-102) |
+| **AI-900** | Microsoft Azure AI Fundamentals | Azure AI Fundamentals | [View Dump](https://www.certblaze.com/microsoft/ai-900) |
+| **DP-100** | Designing and Implementing a Data Science Solution on Azure | Data Science Associate | [View Dump](https://www.certblaze.com/microsoft/dp-100) |
+| **DP-600** | Implementing Analytics Solutions Using Microsoft Fabric | Fabric Analytics Engineer Associate | [View Dump](https://www.certblaze.com/microsoft/dp-600) |
+| **DP-700** | Implementing Data Engineering Solutions Using Microsoft Fabric | Fabric Data Engineer Associate | [View Dump](https://www.certblaze.com/microsoft/dp-700) |
+| **DP-900** | Microsoft Azure Data Fundamentals | Azure Data Fundamentals | [View Dump](https://www.certblaze.com/microsoft/dp-900) |
 
 ### Microsoft 365 Exams
 
 | Exam Code | Exam Name | Certification | Exam Dump |
 |-----------|-----------|---------------|-----------|
-| **MS-102** | Microsoft 365 Administrator | Microsoft 365 Administrator Expert | [View Dump](https://www.cheapestexamdumps.com/microsoft/ms-102) |
-| **MS-700** | Managing Microsoft Teams | Teams Administrator Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/ms-700) |
-| **MS-900** | Microsoft 365 Fundamentals | Microsoft 365 Fundamentals | [View Dump](https://www.cheapestexamdumps.com/microsoft/ms-900) |
+| **MS-102** | Microsoft 365 Administrator | Microsoft 365 Administrator Expert | [View Dump](https://www.certblaze.com/microsoft/ms-102) |
+| **MS-700** | Managing Microsoft Teams | Teams Administrator Associate | [View Dump](https://www.certblaze.com/microsoft/ms-700) |
+| **MS-900** | Microsoft 365 Fundamentals | Microsoft 365 Fundamentals | [View Dump](https://www.certblaze.com/microsoft/ms-900) |
 
 ### Power Platform Exams
 
 | Exam Code | Exam Name | Certification | Exam Dump |
 |-----------|-----------|---------------|-----------|
-| **PL-200** | Microsoft Power Platform Functional Consultant | Power Platform Functional Consultant Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/pl-200) |
-| **PL-300** | Microsoft Power BI Data Analyst | Power BI Data Analyst Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/pl-300) |
-| **PL-400** | Microsoft Power Platform Developer | Power Platform Developer Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/pl-400) |
-| **PL-500** | Microsoft Power Automate RPA Developer | Power Automate RPA Developer Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/pl-500) |
-| **PL-600** | Microsoft Power Platform Solution Architect | Power Platform Solution Architect Expert | [View Dump](https://www.cheapestexamdumps.com/microsoft/pl-600) |
-| **PL-900** | Microsoft Power Platform Fundamentals | Power Platform Fundamentals | [View Dump](https://www.cheapestexamdumps.com/microsoft/pl-900) |
+| **PL-200** | Microsoft Power Platform Functional Consultant | Power Platform Functional Consultant Associate | [View Dump](https://www.certblaze.com/microsoft/pl-200) |
+| **PL-300** | Microsoft Power BI Data Analyst | Power BI Data Analyst Associate | [View Dump](https://www.certblaze.com/microsoft/pl-300) |
+| **PL-400** | Microsoft Power Platform Developer | Power Platform Developer Associate | [View Dump](https://www.certblaze.com/microsoft/pl-400) |
+| **PL-500** | Microsoft Power Automate RPA Developer | Power Automate RPA Developer Associate | [View Dump](https://www.certblaze.com/microsoft/pl-500) |
+| **PL-600** | Microsoft Power Platform Solution Architect | Power Platform Solution Architect Expert | [View Dump](https://www.certblaze.com/microsoft/pl-600) |
+| **PL-900** | Microsoft Power Platform Fundamentals | Power Platform Fundamentals | [View Dump](https://www.certblaze.com/microsoft/pl-900) |
 
 ### Security, Compliance & Identity Exams
 
 | Exam Code | Exam Name | Certification | Exam Dump |
 |-----------|-----------|---------------|-----------|
-| **SC-100** | Microsoft Cybersecurity Architect | Cybersecurity Architect Expert | [View Dump](https://www.cheapestexamdumps.com/microsoft/sc-100) |
-| **SC-200** | Microsoft Security Operations Analyst | Security Operations Analyst Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/sc-200) |
-| **SC-300** | Microsoft Entra Identity and Access Administrator | Identity and Access Administrator Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/sc-300) |
-| **SC-400** | Microsoft Information Protection Administrator | Information Protection Administrator Associate | [View Dump](https://www.cheapestexamdumps.com/microsoft/sc-400) |
-| **SC-900** | Microsoft Security, Compliance, and Identity Fundamentals | Security, Compliance, and Identity Fundamentals | [View Dump](https://www.cheapestexamdumps.com/microsoft/sc-900) |
+| **SC-100** | Microsoft Cybersecurity Architect | Cybersecurity Architect Expert | [View Dump](https://www.certblaze.com/microsoft/sc-100) |
+| **SC-200** | Microsoft Security Operations Analyst | Security Operations Analyst Associate | [View Dump](https://www.certblaze.com/microsoft/sc-200) |
+| **SC-300** | Microsoft Entra Identity and Access Administrator | Identity and Access Administrator Associate | [View Dump](https://www.certblaze.com/microsoft/sc-300) |
+| **SC-400** | Microsoft Information Protection Administrator | Information Protection Administrator Associate | [View Dump](https://www.certblaze.com/microsoft/sc-400) |
+| **SC-900** | Microsoft Security, Compliance, and Identity Fundamentals | Security, Compliance, and Identity Fundamentals | [View Dump](https://www.certblaze.com/microsoft/sc-900) |
 
 ---
 
@@ -198,19 +198,19 @@ Google Cloud certs are gaining serious traction, especially in organizations usi
 
 | Exam Name | Exam Dump |
 |-----------|-----------|
-| Cloud Digital Leader | [View Dump](https://www.cheapestexamdumps.com/google/cloud-digital-leader) |
-| Associate Cloud Engineer | [View Dump](https://www.cheapestexamdumps.com/google/associate-cloud-engineer) |
-| Associate Google Workspace Administrator | [View Dump](https://www.cheapestexamdumps.com/google/associate-google-workspace-administrator) |
-| Generative AI Leader | [View Dump](https://www.cheapestexamdumps.com/google/generative-ai-leader) |
-| Professional Cloud Architect | [View Dump](https://www.cheapestexamdumps.com/google/professional-cloud-architect) |
-| Professional Cloud Database Engineer | [View Dump](https://www.cheapestexamdumps.com/google/professional-cloud-database-engineer) |
-| Professional Cloud Developer | [View Dump](https://www.cheapestexamdumps.com/google/professional-cloud-developer) |
-| Professional Cloud DevOps Engineer | [View Dump](https://www.cheapestexamdumps.com/google/professional-cloud-devops-engineer) |
-| Professional Cloud Network Engineer | [View Dump](https://www.cheapestexamdumps.com/google/professional-cloud-network-engineer) |
-| Professional Cloud Security Engineer | [View Dump](https://www.cheapestexamdumps.com/google/professional-cloud-security-engineer) |
-| Professional Data Engineer | [View Dump](https://www.cheapestexamdumps.com/google/professional-data-engineer) |
-| Professional Machine Learning Engineer | [View Dump](https://www.cheapestexamdumps.com/google/professional-machine-learning-engineer) |
-| Professional Security Operations Engineer | [View Dump](https://www.cheapestexamdumps.com/google/professional-security-operations-engineer) |
+| Cloud Digital Leader | [View Dump](https://www.certblaze.com/google/cloud-digital-leader) |
+| Associate Cloud Engineer | [View Dump](https://www.certblaze.com/google/associate-cloud-engineer) |
+| Associate Google Workspace Administrator | [View Dump](https://www.certblaze.com/google/associate-google-workspace-administrator) |
+| Generative AI Leader | [View Dump](https://www.certblaze.com/google/generative-ai-leader) |
+| Professional Cloud Architect | [View Dump](https://www.certblaze.com/google/professional-cloud-architect) |
+| Professional Cloud Database Engineer | [View Dump](https://www.certblaze.com/google/professional-cloud-database-engineer) |
+| Professional Cloud Developer | [View Dump](https://www.certblaze.com/google/professional-cloud-developer) |
+| Professional Cloud DevOps Engineer | [View Dump](https://www.certblaze.com/google/professional-cloud-devops-engineer) |
+| Professional Cloud Network Engineer | [View Dump](https://www.certblaze.com/google/professional-cloud-network-engineer) |
+| Professional Cloud Security Engineer | [View Dump](https://www.certblaze.com/google/professional-cloud-security-engineer) |
+| Professional Data Engineer | [View Dump](https://www.certblaze.com/google/professional-data-engineer) |
+| Professional Machine Learning Engineer | [View Dump](https://www.certblaze.com/google/professional-machine-learning-engineer) |
+| Professional Security Operations Engineer | [View Dump](https://www.certblaze.com/google/professional-security-operations-engineer) |
 
 ---
 
@@ -220,12 +220,12 @@ Databricks certifications are relatively newer but increasingly valued — espec
 
 | Exam Name | Exam Dump |
 |-----------|-----------|
-| Databricks Certified Data Analyst Associate | [View Dump](https://www.cheapestexamdumps.com/databricks/data-analyst-associate) |
-| Databricks Certified Data Engineer Associate | [View Dump](https://www.cheapestexamdumps.com/databricks/data-engineer-associate) |
-| Databricks Certified Data Engineer Professional | [View Dump](https://www.cheapestexamdumps.com/databricks/data-engineer-professional) |
-| Databricks Certified Machine Learning Associate | [View Dump](https://www.cheapestexamdumps.com/databricks/machine-learning-associate) |
-| Databricks Certified Machine Learning Professional | [View Dump](https://www.cheapestexamdumps.com/databricks/machine-learning-professional) |
-| Databricks Certified Generative AI Engineer Associate | [View Dump](https://www.cheapestexamdumps.com/databricks/generative-ai-engineer-associate) |
+| Databricks Certified Data Analyst Associate | [View Dump](https://www.certblaze.com/databricks/data-analyst-associate) |
+| Databricks Certified Data Engineer Associate | [View Dump](https://www.certblaze.com/databricks/data-engineer-associate) |
+| Databricks Certified Data Engineer Professional | [View Dump](https://www.certblaze.com/databricks/data-engineer-professional) |
+| Databricks Certified Machine Learning Associate | [View Dump](https://www.certblaze.com/databricks/machine-learning-associate) |
+| Databricks Certified Machine Learning Professional | [View Dump](https://www.certblaze.com/databricks/machine-learning-professional) |
+| Databricks Certified Generative AI Engineer Associate | [View Dump](https://www.certblaze.com/databricks/generative-ai-engineer-associate) |
 
 ---
 
@@ -235,12 +235,12 @@ CompTIA certs are vendor-neutral, which makes them a fantastic starting point if
 
 | Exam Code | Exam Name | Certification | Exam Dump |
 |-----------|-----------|---------------|-----------|
-| **220-1201** | A+ Core 1 | CompTIA A+ | [View Dump](https://www.cheapestexamdumps.com/comptia/220-1201) |
-| **220-1202** | A+ Core 2 | CompTIA A+ | [View Dump](https://www.cheapestexamdumps.com/comptia/220-1202) |
-| **N10-009** | Network+ | CompTIA Network+ | [View Dump](https://www.cheapestexamdumps.com/comptia/n10-009) |
-| **SY0-701** | Security+ | CompTIA Security+ | [View Dump](https://www.cheapestexamdumps.com/comptia/sy0-701) |
-| **CS0-003** | CySA+ | CompTIA CySA+ | [View Dump](https://www.cheapestexamdumps.com/comptia/cs0-003) |
-| **CV0-004** | Cloud+ | CompTIA Cloud+ | [View Dump](https://www.cheapestexamdumps.com/comptia/cv0-004) |
+| **220-1201** | A+ Core 1 | CompTIA A+ | [View Dump](https://www.certblaze.com/comptia/220-1201) |
+| **220-1202** | A+ Core 2 | CompTIA A+ | [View Dump](https://www.certblaze.com/comptia/220-1202) |
+| **N10-009** | Network+ | CompTIA Network+ | [View Dump](https://www.certblaze.com/comptia/n10-009) |
+| **SY0-701** | Security+ | CompTIA Security+ | [View Dump](https://www.certblaze.com/comptia/sy0-701) |
+| **CS0-003** | CySA+ | CompTIA CySA+ | [View Dump](https://www.certblaze.com/comptia/cs0-003) |
+| **CV0-004** | Cloud+ | CompTIA Cloud+ | [View Dump](https://www.certblaze.com/comptia/cv0-004) |
 
 ---
 
@@ -264,7 +264,7 @@ These are things I wish someone had told me before my first cert exam:
 
 ## 📥 Where to Get These Exam Dumps
 
-👉 [**Browse all 61+ exam dumps here**](https://www.cheapestexamdumps.com/)
+👉 [**Browse all 61+ exam dumps here**](https://www.certblaze.com/)
 
 I've tried a lot of exam prep resources over the years, and the combination of real questions + detailed explanations + low cost is hard to beat. The free sample is genuinely useful too — 15 questions is enough to see whether the material matches what you need.
 
